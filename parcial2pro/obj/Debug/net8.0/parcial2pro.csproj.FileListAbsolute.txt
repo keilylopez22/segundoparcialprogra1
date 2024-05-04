@@ -1,0 +1,14 @@
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\bin\Debug\net8.0\parcial2pro.exe
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\bin\Debug\net8.0\parcial2pro.deps.json
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\bin\Debug\net8.0\parcial2pro.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\bin\Debug\net8.0\parcial2pro.dll
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\bin\Debug\net8.0\parcial2pro.pdb
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\parcial2pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\parcial2pro.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\parcial2pro.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\parcial2pro.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\parcial2pro.dll
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\refint\parcial2pro.dll
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\parcial2pro.pdb
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\parcial2pro.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\segundoparcialprogra\parcial2pro\obj\Debug\net8.0\ref\parcial2pro.dll
